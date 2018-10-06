@@ -1,0 +1,8 @@
+I/ Create Question: 
+	1. Choose type (Same Magento choose product type) - Have 8 type. Based on type to create question. Example: Type 1 are have 1 question- 4 answers. Type 2 are mp3 - 3 answers. Type 3 are section (content) have group 3-4 question,...
+When create question have section will create section and question in section (same configurable product).
+	2. Create question with answer.
+	
+II/ Create Test: 
+	1. List question 
+	2. Select multiple question in table
